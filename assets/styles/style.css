@@ -1,0 +1,13 @@
+.greeting {
+    height: 100vh;
+    display: flex;
+    align-content: center;
+}
+
+.btn {
+    align-self: center;
+}
+
+body {
+    background-color: rgb(158, 186, 190);
+}
