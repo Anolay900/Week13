@@ -4,3 +4,8 @@ function hello() {
     effect.textContent = `Привет, ${name}!`;
 }
 
+function clean() {
+    let effect = document.getElementById('result');
+    effect.textContent = '';
+}
+
